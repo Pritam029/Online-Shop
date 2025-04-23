@@ -7,6 +7,14 @@ services:
       - "5173:5173"
     networks:
       - my-net
+    depends_on:
+      - nginx
+    environment:
+      - NODE_ENV=production
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://13.202.205.13:5173"]
+      interval: 30s
+      retries: 3
 
   nginx:
     image: nginx:latest
@@ -18,3 +26,4 @@ services:
 
 networks:
   my-net:
+
