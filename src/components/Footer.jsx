@@ -10,7 +10,7 @@ export function Footer() {
                 <Row className="gy-2">
                     <Col md={3}>
                         <div className="footer-brand mb-3">
-                            <a href="https://github.com/LondheShubham153/online_shop_hackathon" 
+                            <a href="https://github.com/Abhijit2003das/web-app.git" 
                                className="brand-link d-inline-flex align-items-center"
                             >
                                 <img src="/imgs/logo.svg" alt="Logo" width="30" height="30" className="me-2" />
@@ -76,7 +76,7 @@ export function Footer() {
                             </h5>
                             <div className="social-links-horizontal">
                                 <a 
-                                    href="https://github.com/LondheShubham153" 
+                                    href="https://github.com/Abhijit2003das" 
                                     target="_blank" 
                                     rel="noopener noreferrer" 
                                     className="social-link"
@@ -84,7 +84,7 @@ export function Footer() {
                                     <FontAwesomeIcon icon={faGithub} />
                                 </a>
                                 <a 
-                                    href="https://linkedin.com/in/shubhamlondhe1996" 
+                                    href="https://www.linkedin.com/in/abhijit-das520" 
                                     target="_blank" 
                                     rel="noopener noreferrer" 
                                     className="social-link"
@@ -92,7 +92,7 @@ export function Footer() {
                                     <FontAwesomeIcon icon={faLinkedin} />
                                 </a>
                                 <a 
-                                    href="https://twitter.com/trainwitshubham" 
+                                    href="https://x.com/abhijit60720548" 
                                     target="_blank" 
                                     rel="noopener noreferrer" 
                                     className="social-link"
