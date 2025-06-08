@@ -13,9 +13,9 @@ In this phase, your focus is on understanding the provided developer code, revie
 ---
 
 ### Run in vs code
-in terminal - "npm install --save-dev vite"
-npm start
-choose any link
+<p>in terminal type - "npm install --save-dev vite"</p>
+<p>npm start</p>
+<p>Then choose any link</p>
 
 ### Project Details
 
