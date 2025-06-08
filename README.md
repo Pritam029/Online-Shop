@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-[![GitHub Profile]((https://github.com/pritam029))](https://github.com/pritam029)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 
 <p align="center">
 
