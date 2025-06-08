@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![GitHub Profile](https://img.shields.io/badge/GitHub-iemafzalhassan-blue?logo=github&style=flat)](https://github.com/pritam029)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
@@ -99,3 +100,6 @@ All this while ensuring:
 
 
 Happy Learning  :)
+=======
+# Online-Shop
+>>>>>>> 1701a562152214a564bc98591b26072992a006f9
