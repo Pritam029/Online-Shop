@@ -10,7 +10,7 @@ export function Footer() {
                 <Row className="gy-2">
                     <Col md={3}>
                         <div className="footer-brand mb-3">
-                            <a href="https://github.com/Pritam029/web-app.git" 
+                            <a href="https://github.com/Pritam029/Online-Shop.git" 
                                className="brand-link d-inline-flex align-items-center"
                             >
                                 <img src="/imgs/logo.svg" alt="Logo" width="30" height="30" className="me-2" />
@@ -110,7 +110,7 @@ export function Footer() {
                     <div className="mb-1">
                         Made with <FontAwesomeIcon icon={faHeart} className="heart-icon" /> by{" "}
                         <a 
-                            href="https://iemafzalhassan.tech" 
+                            href=" " 
                             target="_blank" 
                             rel="noopener noreferrer"
                             className="author-link"
