@@ -10,7 +10,7 @@ export function Footer() {
                 <Row className="gy-2">
                     <Col md={3}>
                         <div className="footer-brand mb-3">
-                            <a href="https://github.com/Abhijit2003das/web-app.git" 
+                            <a href="https://github.com/Pritam029/web-app.git" 
                                className="brand-link d-inline-flex align-items-center"
                             >
                                 <img src="/imgs/logo.svg" alt="Logo" width="30" height="30" className="me-2" />
@@ -23,11 +23,11 @@ export function Footer() {
                         <div className="contact-info">
                             <div className="contact-item mb-2">
                                 <FontAwesomeIcon icon={faMapMarkerAlt} className="contact-icon me-2" />
-                                <span><strong>Address:</strong> Bihar, India</span>
+                                <span><strong>Address:</strong> Hooghly, India</span>
                             </div>
                             <div className="contact-item">
                                 <FontAwesomeIcon icon={faPhone} className="contact-icon me-2" />
-                                <span><strong>Helpline:</strong> +91 9999999999</span>
+                                <span><strong>Helpline:</strong> +91 8961458281</span>
                             </div>
                         </div>
                     </Col>
@@ -76,7 +76,7 @@ export function Footer() {
                             </h5>
                             <div className="social-links-horizontal">
                                 <a 
-                                    href="https://github.com/Abhijit2003das" 
+                                    href="https://github.com/Pritam029" 
                                     target="_blank" 
                                     rel="noopener noreferrer" 
                                     className="social-link"
@@ -84,7 +84,7 @@ export function Footer() {
                                     <FontAwesomeIcon icon={faGithub} />
                                 </a>
                                 <a 
-                                    href="https://www.linkedin.com/in/abhijit-das520" 
+                                    href="https://www.linkedin.com/in/pritamgarai029" 
                                     target="_blank" 
                                     rel="noopener noreferrer" 
                                     className="social-link"
@@ -92,7 +92,7 @@ export function Footer() {
                                     <FontAwesomeIcon icon={faLinkedin} />
                                 </a>
                                 <a 
-                                    href="https://x.com/abhijit60720548" 
+                                    href="https://x.com/GaraiPitam11379" 
                                     target="_blank" 
                                     rel="noopener noreferrer" 
                                     className="social-link"
@@ -115,7 +115,7 @@ export function Footer() {
                             rel="noopener noreferrer"
                             className="author-link"
                         >
-                            Md. Afzal Hassan Ehsani
+                            Pritam Garai
                         </a>
                     </div>
                     <div>
@@ -123,7 +123,6 @@ export function Footer() {
                         All rights reserved.
                     </div>
                     <div className="mt-1">
-                    Driven for TrainWithShubham Community.
                     </div>
                 </div>
             </Container>
