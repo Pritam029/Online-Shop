@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-[![GitHub Profile](https://img.shields.io/badge/GitHub-iemafzalhassan-blue?logo=github&style=flat)](https://github.com/pritam029)
+[![GitHub Profile]((https://github.com/pritam029))](https://github.com/pritam029)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 <p align="center">
