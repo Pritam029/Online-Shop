@@ -119,7 +119,7 @@ export function Footer() {
                         </a>
                     </div>
                     <div>
-                        <FontAwesomeIcon icon={faCopyright} /> {new Date().getFullYear()} Online Shop. 
+                        <FontAwesomeIcon icon={faCopyright} /> {new Date().getFullYear()} Online-Shop. 
                         All rights reserved.
                     </div>
                     <div className="mt-1">
